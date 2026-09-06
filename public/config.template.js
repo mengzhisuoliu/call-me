@@ -6,7 +6,7 @@ window.myAppConfig = {
     showGithub: true,
     about: {
         enable: true,
-        url: 'https://docs.mirotalk.com/sites/cme.html',
+        url: 'https://docs.mirotalk.com/sites/cme',
     },
 
     // Optional per-room visual overrides (branding only, NOT security).
